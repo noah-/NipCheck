@@ -1440,7 +1440,9 @@ namespace NipCheck
             defined.Add("tohit", 0);
             defined.Add("toblock", 0);
             defined.Add("mindamage", 0);
+            defined.Add("plusmindamage", 0);
             defined.Add("maxdamage", 0);
+            defined.Add("plusmaxdamage", 0);
             defined.Add("secondarymindamage", 0);
             defined.Add("secondarymaxdamage", 0);
             defined.Add("damagepercent", 0);
@@ -1550,6 +1552,7 @@ namespace NipCheck
             defined.Add("plusskillshapeshifting", 0);
             defined.Add("plusskilllycanthropy", 0);
             defined.Add("plusskillsummonspiritwolf", 0);
+            defined.Add("plusskillferalrage", 0);
             defined.Add("state", 0);
             defined.Add("itemfastergethitrate", 0);
             defined.Add("fhr", 0);
@@ -2088,7 +2091,8 @@ namespace NipCheck
             defined.Add("shortparam1", 0);
             defined.Add("questitemdifficulty", 0);
             defined.Add("passivemagmastery", 0);
-            defined.Add("passivemagpierce", 0); 
+            defined.Add("passivemagpierce", 0);
+            defined.Add("tier", 0);
         }
 
         public static Error CheckLine(string line, int ln)
