@@ -10,7 +10,7 @@ Syntax Highlighting
 
 All unrecognized syntax will show up as red text with underline.
 
-## Download includes
+## [Download](https://github.com/noah-/NipCheck/archive/master.zip) includes
 NipCheck.dll
 NIP.xml
 userDefineLanguage.xml
@@ -19,7 +19,7 @@ userDefineLanguage.xml
 Navigate to:
 C:\Program Files (x86)\Notepad++\plugins\
 
-Place NipCheck.dll here
+Place/Extract NipCheck.dll in a new created subfolder ...\Notepad++\plugins\NipCheck\ , because the new versions of np++ require different subfolder for every plugin)
 
 Navigate to:
 C:\Program Files (x86)\Notepad++\plugins\APIs\

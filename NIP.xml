@@ -1342,9 +1342,12 @@
 		<KeyWord name="playerbodypart" />
 		<KeyWord name="plt" />
 		<KeyWord name="plusdefense" />
+		<KeyWord name="plusmaxdamage" />
+		<KeyWord name="plusmindamage" />
 		<KeyWord name="plusskillbattlecommand" />
 		<KeyWord name="plusskillbattlecry" />
 		<KeyWord name="plusskillbattleorders" />
+		<KeyWord name="plusskillferalrage" />
 		<KeyWord name="plusskillguidedarrow" />
 		<KeyWord name="plusskilllycanthropy" />
 		<KeyWord name="plusskillshapeshifting" />
@@ -1857,6 +1860,7 @@
 		<KeyWord name="thulrune" />
 		<KeyWord name="thundermaul" />
 		<KeyWord name="tiara" />
+		<KeyWord name="tier" />
 		<KeyWord name="tigulatedmail" />
 		<KeyWord name="tirrune" />
 		<KeyWord name="tkf" />
